@@ -33,10 +33,8 @@ NAME = input("hello user plz enter ur first name"()):
 for i in range(6):
     for d in range(5):
         dice[d] = random.randint(1,6)
-        score = sum(dice)
-    print(dice)
+        print(dice)
+    score = sum(dice)
     question = input("do u wanna roll again? y/n")
         if question = "n":
             break 
-
-    
