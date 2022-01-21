@@ -1,5 +1,4 @@
-#110 meters TYp3 be@t l000000l DG
-
+#110 meters TYp3 be@t l000000l DG r3@l (CTRL)2nt1 BGQHR$ RGH$`
 import random
 
 score = 0
